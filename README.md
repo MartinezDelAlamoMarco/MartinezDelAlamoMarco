@@ -112,8 +112,9 @@ React site presenting my work, stack and background.
 
 ## GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=MartinezDelAlamoMarco&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/MartinezDelAlamoMarco)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezDelAlamoMarco&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/MartinezDelAlamoMarco)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinezDelAlamoMarco&theme=tokyonight" />
+</p>
 
 ---
 
