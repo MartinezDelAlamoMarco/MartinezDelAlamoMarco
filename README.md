@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Development graduate (DAM)
+- 🎓 Software Development graduate (DAM & DAW)
 - 📱 Mobile developer specialized in **Flutter**
 - 💻 Experience with **Java, SQL, PL/SQL, and web technologies**
 - 🔥 Passionate about building scalable and real-world applications
@@ -91,7 +91,7 @@ This project involves the full design and development of a web application, appl
 
 ✨ Currently in development.
 
-[![Final Degree Project RedLineMotor](TFG_jmn.png)](https://github.com/MartinezDelAlamoMarco/MarcoMartinez)
+[![Final Degree Project RedLineMotor](TFG_jmn.png)](https://github.com/MartinezDelAlamoMarco/MartinezDelAlamoMarco)
 
 🔒 Repository currently private (will be available soon)
 
